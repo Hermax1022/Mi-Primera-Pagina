@@ -1,4 +1,3 @@
-#Primera Pagina
 Pagina realizada en el curso de HappyDev con Html-Css-Js-php.
 Comenzando primero creando la estructura con html. "index.html".
 luego diseñando el estilo de la pagina con CSS "styles.css".
